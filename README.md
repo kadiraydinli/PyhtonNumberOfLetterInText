@@ -1,4 +1,4 @@
-# PyhtonNumberOfLetterInText
+# PythonNumberOfLetterInText
 
 Verilen metini sırasıyla ikişer harfler halinde parçalayarak diziye atıyor, bu sırada diziye aktarılan ikişer harflerden aynı olanlardan kaç tane olduğunu bulup ekrana yazıyor.
 
